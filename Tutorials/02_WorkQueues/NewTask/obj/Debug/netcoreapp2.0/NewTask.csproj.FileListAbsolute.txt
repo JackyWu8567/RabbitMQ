@@ -1,0 +1,11 @@
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\bin\Debug\netcoreapp2.0\NewTask.deps.json
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.json
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.dev.json
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\bin\Debug\netcoreapp2.0\NewTask.dll
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\obj\Debug\netcoreapp2.0\NewTask.csproj.CoreCompileInputs.cache
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfoInputs.cache
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfo.cs
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\bin\Debug\netcoreapp2.0\NewTask.pdb
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\obj\Debug\netcoreapp2.0\NewTask.dll
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\obj\Debug\netcoreapp2.0\NewTask.pdb
+D:\Technologies\RabbitMQ\WorkQueues\NewTask\obj\Debug\netcoreapp2.0\NewTask.csprojAssemblyReference.cache

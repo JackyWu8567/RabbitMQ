@@ -1,0 +1,8 @@
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.deps.json
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.runtimeconfig.json
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.runtimeconfig.dev.json
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.dll
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.csprojAssemblyReference.cache
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.csproj.CoreCompileInputs.cache
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.AssemblyInfoInputs.cache
+D:\Technologies\RabbitMQ\PublishAndSbuscribe\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.AssemblyInfo.cs
