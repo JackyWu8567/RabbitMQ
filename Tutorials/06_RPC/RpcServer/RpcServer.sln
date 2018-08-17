@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RpcServer", "RpcServer.csproj", "{038A9F2C-C51F-472E-9F06-FC37F954B3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{038A9F2C-C51F-472E-9F06-FC37F954B3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038A9F2C-C51F-472E-9F06-FC37F954B3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038A9F2C-C51F-472E-9F06-FC37F954B3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038A9F2C-C51F-472E-9F06-FC37F954B3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A0CAA3D-213E-4614-8E9E-4EA9E7419E04}
+	EndGlobalSection
+EndGlobal

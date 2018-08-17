@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RpcClient": {
+      "commandName": "Project",
+      "commandLineArgs": "30"
+    }
+  }
+}
